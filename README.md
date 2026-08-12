@@ -1,12 +1,12 @@
 # kautilya-1124
 
-> Memorable developer positioning.
+> Products, launches, and builder momentum.
 
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 > Editing this section in the inspector.
-Hi, I'm **kautilya-1124**. This README is tuned for **personal brand** with a GitHub visual system.
+Hi, I'm **kautilya-1124**. This README is tuned for **indie hacker** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kautilya-1124&theme=github-dark&mode=light" />
