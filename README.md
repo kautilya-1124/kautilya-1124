@@ -1,8 +1,3 @@
-# kautilya-1124
-
-> Products, launches, and builder momentum.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 > Editing this section in the inspector.
